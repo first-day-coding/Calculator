@@ -52,3 +52,4 @@ print("The result is " + str(result))
 
 #Like and subscribe if this is helpful
 #See you all in the next vid
+#https://www.youtube.com/channel/UCAdHSy6KF9vFuPm0INi30Tg
